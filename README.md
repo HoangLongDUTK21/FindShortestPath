@@ -27,6 +27,7 @@
 ## Skills:
 <p align="center">
   <img src="https://img.icons8.com/cute-clipart/344/c.png"/ alt="c" width="48" height="48">
+  <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png"/ alt="c++" width="48" height="48">
 </p>
 
 <table style="width:100%;">
