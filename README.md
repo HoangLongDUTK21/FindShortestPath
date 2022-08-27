@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [Da Nang University of Science and Technology](http://dut.udn.vn/) (DUT).
 
-- 🌱 I’m currently **First Year**
+- 🌱 I’m currently **Second Year**
 
 
 ## 📫 How to reach me:
