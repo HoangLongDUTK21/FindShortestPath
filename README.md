@@ -44,41 +44,5 @@
   </tr>
 </table>
 
-# Certificates:
 
-<p align="center">
-  <a href="https://learn.viblo.asia/uploads/certificate-image/10974/47/Long%20Truong%20Cong%20Hoangc65fbefee11317b1b1ee0b30dae8fe5a.png">
-    <img alt="Introduction to Artificial Intelligence" title="Introduction to Artificial Intelligence" src="https://learn.viblo.asia/uploads/certificate-image/10974/47/Long%20Truong%20Cong%20Hoangc65fbefee11317b1b1ee0b30dae8fe5a.png" width="400px" />
-  </a>
-  <a href="https://learn.viblo.asia/uploads/certificate-image/10974/55/Long%20Truong%20Cong%20Hoanga5c158d9965251a2f0bca21059a70654.png">
-    <img alt="Google Analytics Basic" title="Google Analytics Basic" src="https://learn.viblo.asia/uploads/certificate-image/10974/55/Long%20Truong%20Cong%20Hoanga5c158d9965251a2f0bca21059a70654.png" width="400px" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://learn.viblo.asia/uploads/certificate-image/10974/37/Long%20Truong%20Cong%20Hoang35b74040eadade1a80bbf6e9f57e5c4b.png">
-    <img alt="Git Essentials" title="Git Essentials" src="https://learn.viblo.asia/uploads/certificate-image/10974/37/Long%20Truong%20Cong%20Hoang35b74040eadade1a80bbf6e9f57e5c4b.png" width="400px" />
-  </a>
-  <a href="https://learn.viblo.asia/uploads/certificate-image/10974/41/Long%20Truong%20Cong%20Hoanga3d3416b76d411cc646c87af4f3238f1.png">
-    <img alt="Secure Coding Training" title="Secure Coding Training" src="https://learn.viblo.asia/uploads/certificate-image/10974/41/Long%20Truong%20Cong%20Hoanga3d3416b76d411cc646c87af4f3238f1.png" width="400px" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://learn.viblo.asia/uploads/certificate-image/10974/78/Long%20Truong%20Cong%20Hoangc49f1ef07fc19807b855b2481e998703.png">
-    <img alt="Computer architecture" title="Computer architecture" src="https://learn.viblo.asia/uploads/certificate-image/10974/78/Long%20Truong%20Cong%20Hoangc49f1ef07fc19807b855b2481e998703.png" width="400px" />
-  </a>
-  <a href="https://learn.viblo.asia/uploads/certificate-image/10974/75/Long%20Truong%20Cong%20Hoang4c256146f9527872f768994a1da8fd00.png">
-    <img alt="Discrete Mathematics 1" title="Discrete Mathematics 1" src="https://learn.viblo.asia/uploads/certificate-image/10974/75/Long%20Truong%20Cong%20Hoang4c256146f9527872f768994a1da8fd00.png" width="400px" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://learn.viblo.asia/uploads/certificate-image/10974/76/Long%20Truong%20Cong%20Hoang63a031fe4b582f91b41ba191343e204d.png">
-    <img alt="Discrete Mathematics 2"  title="Discrete Mathematics 2" src="https://learn.viblo.asia/uploads/certificate-image/10974/76/Long%20Truong%20Cong%20Hoang63a031fe4b582f91b41ba191343e204d.png" width="400px" />
-  </a>
-    <a href="https://learn.viblo.asia/uploads/certificate-image/10974/69/Long%20Truong%20Cong%20Hoange3b09af87f5a8a7db727d9b1d7adef4a.png">
-    <img alt="Professional Scrum Master I (PSM-I)" title="Professional Scrum Master I (PSM-I)" src="https://learn.viblo.asia/uploads/certificate-image/10974/69/Long%20Truong%20Cong%20Hoange3b09af87f5a8a7db727d9b1d7adef4a.png" width="400px" />
-  </a>
-</p>
 
