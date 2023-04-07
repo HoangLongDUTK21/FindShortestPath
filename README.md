@@ -26,16 +26,16 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://img.icons8.com/cute-clipart/344/c.png"/ alt="c" width="48" height="48">
+  <img src="https://icons8.com/icon/shQTXiDQiQVR/c-programming"/ alt="c" width="48" height="48">
   <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png"/ alt="c++" width="48" height="48">
+  <img src="https://icons8.com/icon/mhwmyz1eu7T5/c-sharp-logo"/ alt="c++" width="48" height="48">
 </p>
 
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://icons8.com/icon/shQTXiDQiQVR/c-programming" alt="longtch" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longtch&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="longtch" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=longtch&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="longtch" width="100%"/>
-         <img src="https://icons8.com/icon/mhwmyz1eu7T5/c-sharp-logo" alt="longtch" width="100%"/>
     </td>
     <td>
       <p align="center"> 
