@@ -26,9 +26,9 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://icons8.com/icon/shQTXiDQiQVR/c-programming"/ alt="c" width="48" height="48">
+  <img src="https://user-images.githubusercontent.com/104202148/230536968-c846b79e-ac88-4361-b39d-6f7bbedf43b1.png"/ alt="c" width="48" height="48">
   <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png"/ alt="c++" width="48" height="48">
-  <img src="https://icons8.com/icon/mhwmyz1eu7T5/c-sharp-logo"/ alt="c++" width="48" height="48">
+  <img src="https://user-images.githubusercontent.com/104202148/230536826-9e3b8241-1714-48be-ac2b-a278c53e65d0.png"/ alt="c#" width="48" height="48">
 </p>
 
 <table style="width:100%;">
