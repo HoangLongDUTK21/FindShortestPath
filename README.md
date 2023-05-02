@@ -68,25 +68,6 @@
 [![LongTCH's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=longtch&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-### My Projects ✨:
-  
-<a href="https://github.com/LongTCH/ElectronicStoreManagement">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=longtch&repo=ElectronicStoreManagement&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/LongTCH/CafeShopSoldFeature">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=longtch&repo=CafeShopSoldFeature&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/LongTCH/Math_CS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=longtch&repo=Math_CS&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/LongTCH/Kubernetes-First-Deployment">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=longtch&repo=Kubernetes-First-Deployment&theme=tokyonight" />
-</a>
-
-
 </table>
 
 
