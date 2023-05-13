@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Hoang Long</h1>
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A passionate developer from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=longtch" alt="longtch" /> </p>
+<div align="center">
+  <h2 >A passionate developer from Vietnam
+  <img src="https://img.icons8.com/color/48/000000/vietnam-circular.png" alt="Vietnam flag" style="height: 48px; width: 48px; display: inline-block; vertical-align: middle; margin-right: 10px;"></h2>
+  <img src="https://komarev.com/ghpvc/?username=longtch" alt="Profile views" style="display: inline-block; vertical-align: middle;">
+</div>
 
-- ✍ I'm a student of: [Da Nang University of Science and Technology](http://dut.udn.vn/) (DUT).
+<h3><b> 
+  
+- ✍  I'm a student of: [Da Nang University of Science and Technology](http://dut.udn.vn/) (DUT). 
 
 - 🌱 I’m currently **Third Year**
 
 - 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://www.topcv.vn/xem-cv/U1lUAAlbVwBVAgwIAwRRVVAGBlZRWAFcB1wBBw7a7e" target="_blank">MY RESUME.</a>
+</b></h3>
 
-<h3 align="left">## 📫 How to reach me:</h3>
+<h2 align="left">## 📫 How to reach me:</h2>
 
 <p align="left">
   <a href="https://www.facebook.com/truongconghoang.long.9/" alt="Facebook">
@@ -23,7 +28,7 @@
   </a>
 </p>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-## 🛠️ My Favorite Tools
+<h2 align="left">## 🛠️ My Favorite Tools</h2>
 
 ### 👨‍💻 Programming Languages
 
@@ -59,7 +64,7 @@
 <img alt="LongTCH's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=longtch&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="LongTCH's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longtch&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 
-### 🔥 Streak Stats
+<!-- ### 🔥 Streak Stats
 
 ![LongCTH's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=longtch&theme=tokyonight)
 
@@ -67,7 +72,7 @@
 
 [![LongTCH's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=longtch&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+ -->
 </table>
 
 
