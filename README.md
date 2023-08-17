@@ -11,42 +11,20 @@
 
 - 🌱 I’m currently **Third Year**
 
-- 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://www.topcv.vn/xem-cv/U1lUAAlbVwBVAgwIAwRRVVAGBlZRWAFcB1wBBw7a7e" target="_blank">MY RESUME.</a>
-</b></h3>
-
-<h2 align="left">## 📫 How to reach me:</h2>
+<h2 align="left"> 📫 How to reach me:</h2>
 
 <p align="left">
   <a href="https://www.facebook.com/truongconghoang.long.9/" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" height="30" width="40"/>
-  </a> 
-  <a href="https://github.com/LongTCH" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" height="30" width="40"/>
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" height="40" width="40"/>
   </a> 
   <a href="mailto:truongconghoanglong@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png" height="30" width="40"/>
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png" height="40" width="40"/>
   </a>
 </p>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-<h2 align="left">## 🛠️ My Favorite Tools</h2>
 
-### 👨‍💻 Programming Languages
-
-<p>
-    <a href="https://github.com/LongTCH"><img alt="C#" src="https://img.shields.io/badge/-C%23-purple?style=for-the-badge&logo=csharp&logoColor=white"></a>
-    <a href="https://github.com/LongTCH"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-skyblue?style=for-the-badge&logo=c++&logoColor=white"></a>
-    <a href="https://github.com/LongTCH"><img alt="Java" src="https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=white"></a>
-</p>
-
-### 📦 Database:
-
-<p>
-<a href="https://github.com/LongTCH"><img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-lightgrey?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"></a>
-<a href="https://github.com/LongTCH"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&logoColor=white"></a>
-</p>
-
-### 💻 Software and Tools
-
+💻 Software and Tools
+--
 <p>
     <a href="https://github.com/LongTCH"><img alt="Visual Studio" src="https://img.shields.io/badge/-visual%20studio-purple?style=for-the-badge&logo=visualstudio&logoColor=white"></a>
     <a href="https://github.com/LongTCH"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
