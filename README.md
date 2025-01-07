@@ -9,8 +9,6 @@
   
 - ✍  I'm a student of: [Da Nang University of Science and Technology](http://dut.udn.vn/) (DUT). 
 
-- 🌱 I’m currently **Third Year**
-
 <h2 align="left"> 📫 How to reach me:</h2>
 
 <p align="left">
